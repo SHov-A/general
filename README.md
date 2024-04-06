@@ -1,4 +1,4 @@
-### Project for testing the https://storedev.startrekfleetcommand.com/
+### Project for testing the https://
 
 ##### The software
 <ul>
